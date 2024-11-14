@@ -1,0 +1,10 @@
+[info] :: delivering :: scala-hello-world#scala-hello-world_3;0.1.0-SNAPSHOT :: 0.1.0-SNAPSHOT :: integration :: Thu Nov 14 11:15:03 IRKT 2024
+[debug] 	options = status=integration pubdate=Thu Nov 14 11:15:03 IRKT 2024 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null
+[info] 	delivering ivy file to D:\Dev\scala-hello-world\target\scala-3.3.4\ivy-0.1.0-SNAPSHOT.xml
+[debug] 	deliver done (27ms)
+[debug] local do not support transaction. ivy pattern does not use revision as a directory
+[info] 	published scala-hello-world_3 to C:\Users\titsu\.ivy2\local\scala-hello-world\scala-hello-world_3\0.1.0-SNAPSHOT\poms\scala-hello-world_3.pom
+[info] 	published scala-hello-world_3 to C:\Users\titsu\.ivy2\local\scala-hello-world\scala-hello-world_3\0.1.0-SNAPSHOT\jars\scala-hello-world_3.jar
+[info] 	published scala-hello-world_3 to C:\Users\titsu\.ivy2\local\scala-hello-world\scala-hello-world_3\0.1.0-SNAPSHOT\srcs\scala-hello-world_3-sources.jar
+[info] 	published scala-hello-world_3 to C:\Users\titsu\.ivy2\local\scala-hello-world\scala-hello-world_3\0.1.0-SNAPSHOT\docs\scala-hello-world_3-javadoc.jar
+[info] 	published ivy to C:\Users\titsu\.ivy2\local\scala-hello-world\scala-hello-world_3\0.1.0-SNAPSHOT\ivys\ivy.xml

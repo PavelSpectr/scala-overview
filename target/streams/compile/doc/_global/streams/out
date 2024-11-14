@@ -1,0 +1,12 @@
+[info] Main Scala API documentation to D:\Dev\scala-hello-world\target\scala-3.3.4\api...
+[debug] Returning already retrieved and compiled bridge: C:\Users\titsu\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-sbt-bridge\3.3.4\scala3-sbt-bridge-3.3.4.jar.
+[debug] Calling Dottydoc with arguments  (ScaladocInterface):
+[debug] 	-d
+[debug] 	D:\Dev\scala-hello-world\target\scala-3.3.4\api
+[debug] 	-project
+[debug] 	scala-hello-world
+[debug] 	-classpath
+[debug] 	C:\Users\titsu\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.4\scala3-library_3-3.3.4.jar;C:\Users\titsu\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.14\scala-library-2.13.14.jar
+[debug] 	D:\Dev\scala-hello-world\target\scala-3.3.4\classes\HelloWorldApp.tasty
+[debug] 	D:\Dev\scala-hello-world\target\scala-3.3.4\classes\PrimitiveTypeTest.tasty
+[info] Main Scala API documentation successful.

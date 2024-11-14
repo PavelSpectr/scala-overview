@@ -1,0 +1,15 @@
+[debug] Packaging D:\Dev\scala-hello-world\target\scala-3.3.4\scala-hello-world_3-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	basics.sc
+[debug] 	  D:\Dev\scala-hello-world\target\scala-3.3.4\classes\basics.sc
+[debug] 	HelloWorldApp$.class
+[debug] 	  D:\Dev\scala-hello-world\target\scala-3.3.4\classes\HelloWorldApp$.class
+[debug] 	HelloWorldApp.class
+[debug] 	  D:\Dev\scala-hello-world\target\scala-3.3.4\classes\HelloWorldApp.class
+[debug] 	HelloWorldApp.tasty
+[debug] 	  D:\Dev\scala-hello-world\target\scala-3.3.4\classes\HelloWorldApp.tasty
+[debug] 	PrimitiveTypeTest.class
+[debug] 	  D:\Dev\scala-hello-world\target\scala-3.3.4\classes\PrimitiveTypeTest.class
+[debug] 	PrimitiveTypeTest.tasty
+[debug] 	  D:\Dev\scala-hello-world\target\scala-3.3.4\classes\PrimitiveTypeTest.tasty
+[debug] Done packaging.
